@@ -1,2 +1,0 @@
-# GitHubIntro
-Avances examen pokedex 
